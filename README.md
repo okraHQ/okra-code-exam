@@ -11,7 +11,7 @@ The purpose will be to nderstand your knowledge of:
 3. Code reusability and struture 
 4. Best Practicies in nominculture, strucutre, etc.
 5. UI / UX (but this isn't a design competition) 
-6. How you handle dummy / static data (feel free to send back the same random data in the XD or *cough* faker module *cough*
+6. How you handle dummy / static data [feel free to send back the same random data in the XD or ***cough*** faker module ***cough***]
 7. Converting UI to Usable Code
 
 This doesnt have to be connected to any LIVE data source, but feel free to impress us :)
