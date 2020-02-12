@@ -1,6 +1,6 @@
-# Okra Interview Exam Boilerplate
+# Okra Code Challenge
 
-The purpose of this test is to build the Wallet Application found here:
+The purpose of this test is to build the Wallet Application found here using the above boilerplate:
 https://xd.adobe.com/view/2190ec88-7caf-4e23-68d1-e9b6b8ec2bf3-57a1/
 
 You can build this out in as many pages as you like (We recommend no more than 2-3 as we are more worried about quality versus quantity) 
