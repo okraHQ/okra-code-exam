@@ -1,0 +1,1 @@
+export { actionDictionary } from './action.dictionary';
